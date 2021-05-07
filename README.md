@@ -25,7 +25,7 @@ the Arduino MKR shield provided by ROBOTIS.
 
 
 # Fusion 360
-Fusion project files, STLs, and gcode are provided so that you may use, modify, or make your own 5DOF robot arm. Review the project files before printing to ensure accuracy and that you are able to print them on your printer. Models were printed at a 0.12 layer height.
+Fusion project files and STLs are provided so that you may use, modify, or make your own 5DOF robot arm. Review the project files before printing to ensure accuracy and that you are able to print them on your printer. Models were printed at a 0.12 layer height.
 
 
 
