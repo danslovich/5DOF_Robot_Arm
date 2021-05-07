@@ -2,7 +2,7 @@
 All Files to create your own 5DOF robot arm using the Dynamixel XL-330.
 The Dynamixel XL-330-M288-T micro servos and the Arduino MKR shield were provided by ROBOTIS. 
 
-/n
+
 https://www.robotis.us/
 https://www.robotis.us/dynamixel-xl330-m288-t/
 https://www.robotis.us/robotis-blog/dynamixel-xl330-mkr-shield/
