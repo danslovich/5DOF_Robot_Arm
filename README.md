@@ -4,8 +4,11 @@ The Dynamixel XL-330-M288-T micro servos and the Arduino MKR shield were provide
 
 
 https://www.robotis.us/
+
 https://www.robotis.us/dynamixel-xl330-m288-t/
+
 https://www.robotis.us/robotis-blog/dynamixel-xl330-mkr-shield/
+
 
 
 All parts were 3D printed using an Ender 3 V2 and all associated hardware was purchased on 
@@ -14,8 +17,11 @@ you to amazon listings for acceptable hardware.
 
 
 https://www.amazon.com/gp/product/B00F34Z5VC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
 https://www.amazon.com/gp/product/B082PYSPR6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
 https://www.amazon.com/gp/product/B07DNZMNT1/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
 https://www.amazon.com/gp/product/B07RFFMWZT/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&psc=1
 
 
